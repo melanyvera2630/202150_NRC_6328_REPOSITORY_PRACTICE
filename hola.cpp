@@ -5,7 +5,7 @@
 int main () 
 {
     std::cout << "Hola, mundo";
-std::cout << "Hey, que tal";
+    std::cout << "Hey, que tal";
 
     return 0;
 }
